@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu as base
 
 WORKDIR /app
 
